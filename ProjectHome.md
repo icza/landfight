@@ -11,7 +11,7 @@
 |Project status:|completed/stable as of 2005|
 
 ## Screenshot ##
-http://lh3.ggpht.com/_jDMClHrENz8/SRAY1nZAfiI/AAAAAAAAGhU/LPmdqRHfelo/s800/LandFight%20usage%2002.JPG
+![http://lh3.ggpht.com/_jDMClHrENz8/SRAY1nZAfiI/AAAAAAAAGhU/LPmdqRHfelo/s800/LandFight%20usage%2002.JPG](http://lh3.ggpht.com/_jDMClHrENz8/SRAY1nZAfiI/AAAAAAAAGhU/LPmdqRHfelo/s800/LandFight%20usage%2002.JPG)
 
 [More screenshots...](Screenshots.md)
 
